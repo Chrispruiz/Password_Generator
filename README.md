@@ -17,9 +17,11 @@ When the user clicks the "generate a password" button, they are prompted with a 
  3. Added if statements that responds by inputting the requested number/character into the password.
  4. Used a loop expression to get random characters.
 
-![Screenshot](/Images/webpage.png)
+
+![Screenshot](./assets/Images/webpage.png)
 
     
-[URL of deployment](https://chrispruiz.github.io/Portfolio/)
+[URL of deployment](https://chrispruiz.github.io/Password_Generator/)
 
-[GitHub Repository Link](https://github.com/Chrispruiz/Portfolio.git)
+[GitHub Repository Link](https://github.com/Chrispruiz/Password_Generator.git)
+
