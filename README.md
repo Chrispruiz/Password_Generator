@@ -22,6 +22,6 @@ When the user clicks the "generate a password" button, they are prompted with a 
 ![Screenshot](./assets/Images/webpage.png)
 
     
-[URL of deployment](https://chrispruiz.github.io/Portfolio/)
+[URL of deployment](https://chrispruiz.github.io/Password_Genertator/)
 
-[GitHub Repository Link](https://github.com/Chrispruiz/Portfolio.git)
+[GitHub Repository Link](https://github.com/Chrispruiz/Password_Generator.git)
