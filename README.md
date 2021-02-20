@@ -7,9 +7,9 @@ When the user clicks the "generate a password" button, they are prompted with a 
 * CSS
 * Java Script
  
- 1. Added prompts within the generatePassword function so they are prompted with the following questions:
-      a. Please enter the number of characters. Must be no less than 8 and no more than 128.    
-        i. If number is less than 8 or greater than 128, prompted to select a number between the requested parameters.  
+ 1. Added prompts within the generatePassword function so they are prompted with the following questions:</br>
+      a. Please enter the number of characters. Must be no less than 8 and no more than 128. 
+      (If number is less than 8 or greater than 128, prompted to select a   number between the requested parameters.)  
       b. Do you want special characters in your password?      
       c. Do you want numbers in your password?
       d. Do you want lowercases in your password?
